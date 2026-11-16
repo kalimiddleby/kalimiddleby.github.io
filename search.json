@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "NoteTemporal dynamics of heat damage and recovery\n\n\n\n\n\nMost studies of photosynthetic heat tolerance treat the crossing of thermal safety margins as causing instantaneous and irreversible damage, but real heat damage and recovery unfolds over time. Using a custom-built leaf heater (affectionately referred to as the panini press) to expose leaves to acute, controlled heat stress in-situ, combined with repeated measurements of light- and dark-adapted fluorescence, I am exploring variation in these temporal dynamics and using observed trends to inform the incorporation of this process into the individual-based forest model TROLL.\n\n\n\n\n\n\n\n\n\nNoteLeaf phenology, age, and thermal sensitivity\n\n\n\n\n\nMost studies of plant responses to heat and drought (and generally all functional traits) focus on mature leaves, yet scaling physiological responses to whole-plant performance and ecosystem carbon cycling requires accounting for leaf ontogeny and demography. At AMAP I joined the PhenObs and CoForFunc projects to examine how leaf age–trait relationships shape leaf longevity and optimal flushing strategies. The CanObs network uses repeat drone-based imaging of individual tree canopies to monitor phenophases, and — combined with expert assessment of branch growth markers — allows the age of individual leaves to be determined. Using a dataset of leaf traits (photosynthetic capacity, turgor loss point, and leaf morphology) measured across a range of leaf ages, I simulated how this observed variation affects the optimal timing of leaf flushing, and assessed how well these simulations matched observed patterns.\nDuring this work it became apparent that climate variation and leaf age are often confounded in seasonal observational trait datasets, making it difficult to isolate the “real” age trajectory of traits like photosynthetic capacity. In addition, we know very little about how the temperature sensitivity of photosynthesis itself varies across leaf age, making attempts to account for climate acclimation potentially biased. During my current fellowship I am extending this work to investigate how leaf age influences leaf energy balance and seasonal acclimation of photosynthetic temperature optima in African tropical tree species, aiming to separate age-dependent physiological variation from climate acclimation responses.\nIn preparation: Middleby, Barbier, Heuret & Maréchaux\n\n\n\n\n\n\n\n\n\nNoteDecoupling of photosynthesis and stomatal conductance at high temperatures\n\n\n\n\n\nCurrently, climate–vegetation models used to simulate carbon and water fluxes in forests assume photosynthesis and stomatal conductance are tightly coupled. However, a growing number of studies have documented a maintenance or even increase in stomatal conductance at high temperatures, even as photosynthesis declines. While stomatal opening can cool leaves under extreme heat, it also increases hydraulic risk — raising the question of whether heat avoidance and drought tolerance are coordinated strategies in tropical trees. As an Ernst Mayr Fellow at the Smithsonian Tropical Research Institute, I used elevational gradients in Panama to test photosynthetic and stomatal responses to leaf temperatures up to 50°C, providing in-situ evidence of stomatal re-opening at extreme leaf temperatures. At the same time, I’ve been testing whether the same pattern holds at the ecosystem level, using generalised additive models with eddy covariance data from flux towers. I’ve presented this work at the New Phytologist Next Generation Scientists symposium (Birmingham), EGU (Vienna), and the New Phytologist Extreme Heat symposium (Córdoba).\nIn review: Middleby, Rojas-González & Slot  ·  In preparation: Middleby, Rifai & Cernusak\n\n\n\n\n\n\n\n\n\nNotePatterns and drivers of plant thermoregulation\n\n\n\n\n\nA key question is whether trees can actively regulate leaf temperature to avoid heat stress. During my PhD, I investigated the role of intraspecific trait variation in mediating leaf thermoregulation in tropical rainforest trees, combining experimental (climate-controlled glasshouse) and field-based approaches (elevation gradients, common garden trials). Using leaf-to-air temperature differences (ΔT) as a quantitative phenotype, I combined this with genome-wide association analysis and generalised dissimilarity modelling to show that divergent selection linked to both temperature and moisture underlies patterns of thermoregulatory trait variation — evidence of local adaptation operating on this trait. In a complementary common garden trial using provenances sourced from cool and warm source populations, I found ecotypic variation in heat tolerance and leaf–air temperature differences driven by leaf energy balance traits — but this didn’t translate into differences in thermal safety margins when measured side by side. A third study then used a climate-controlled glasshouse to test whether temperature or VPD better explained the acclimation responses observed across the elevation gradient. This work was featured on the cover of Global Change Biology, in a companion piece in The Conversation, and in an article in the Rainforest Rescue newsletter.\nKey publications: Middleby et al. 2025, Global Change Biology (↗) · Middleby et al. 2025, Plant, Cell & Environment (↗) · Middleby et al. 2024, New Phytologist (↗)\n\n\n\n\n\n\n\n\n\nNoteEffect of in-situ leaf warming on carbon uptake in tropical trees\n\n\n\n\n\nLowland tropical forests are projected to experience sustained warming over coming decades, raising the question of whether mature canopy trees can acclimate sufficiently to maintain carbon uptake. With Kristine Crous we ran one of the longest-running in-situ leaf warming experiments in a tropical rainforest, continuously heating upper-canopy leaves by +4°C for eight months in the Daintree Rainforest, Australia. Warming strongly reduced both photosynthesis and stomatal conductance, with no shift in the photosynthetic temperature optimum and no change in respiration (R25 and Q10), a combination of responses that points to a reduced carbon sink under future warming (covered in The Conversation). This matters more given that tropical canopy leaves already approach critical temperatures: a pan-tropical analysis of leaf temperature distributions, featured on the cover of Nature, identified a potential tipping point for the Amazon.\nKey publications: Doughty et al. 2023, Nature (↗) · Crous et al. 2023, Tree Physiology (↗) · Crous, Middleby et al. 2025, New Phytologist (↗)\n\n\n\n\n\n\n\n\n\nNoteBachelor’s thesis: oxygen isotopes as a proxy for leaf temperature\n\n\n\n\n\nThis is where the thermoregulation question started for me. During my B.Sc. at the University of Göttingen I tested whether oxygen isotopes in leaf cellulose could serve as a proxy for photosynthesis-weighted canopy leaf temperature — combining field measurements of leaf temperature and gas exchange across a temperate forest’s vertical canopy gradient with stable oxygen isotope sampling and eddy covariance data. The work showed that cellulose isotope signals were confounded by carryover from the previous year’s source water early in the growing season, limiting their use as a clean seasonal temperature proxy.\nPresented at the American Geophysical Union Fall Meeting, New Orleans, 2021 (nominated for a student presentation award)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kali Middleby",
+    "section": "",
+    "text": "I’m a plant ecophysiologist interested in how climate change, particularly warming, shapes plant function and ecosystem resilience. My research integrates physiological, ecological, and modelling approaches to understand how leaves and canopies interact with their thermal environment, and increasingly seeks to scale these processes up to the species and community level. I use natural environmental gradients alongside manipulative experiments — both in-situ and in climate chambers — to study acclimation to heat and drought stress, and the trade-offs between them."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Kali Middleby",
+    "section": "Professional experience",
+    "text": "Professional experience\n\n\n\n\n\n\n\n\nDates\nRole\nInstitution\n\n\n\n\n2026–2027\nECR Postdoc Fellow\nAMAP, University of Montpellier, France\n\n\n2025–2026\nPostdoc\nAMAP, IRD Occitanie, France\n\n\n2025\nErnst Mayr Postdoc Fellow\nSmithsonian Tropical Research Institute, Panama\n\n\n2024–2025\nPostdoc\nJames Cook University, Australia\n\n\n2020–2024\nPhD, Natural and Physical Sciences (Cum Laude, University Medal of Excellence)\nJames Cook University, Australia\n\n\n2017–2020\nB.Sc. Honours, Molecular Ecosystem Science (First Class Honours, ranked 1st in cohort)\nUniversity of Göttingen, Germany"
+  },
+  {
+    "objectID": "index.html#research-locations",
+    "href": "index.html#research-locations",
+    "title": "Kali Middleby",
+    "section": "Research locations",
+    "text": "Research locations"
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
+    "section": "",
+    "text": "2025: Cover feature, Global Change Biology Thermal image of canopy leaves, Volume 31, Issue 9 (28 Aug 2025). Image credit: Kali Middleby. View issue\n\n\n2025: Cover feature, Science Thermal image of canopy leaves, Volume 388, Issue 6752 (12 Jun 2025). Image credit: Kali Middleby. View issue\n\n\n2023: Cover feature, Nature Thermal image of canopy leaves, Volume 621, Issue 7977 (07 Sep 2023). Image credit: Kali Middleby (James Cook University). View issue\n\n\n2025: The Conversation Middleby, K. & Cernusak, L. “Some tropical trees cool their leaves to survive the heat – but not all species have ways to cope.” (05 Sep 2025). Read the article\n\n\n2025: The Conversation Middleby, K. & Crous, K. “Study shows hot leaves can’t catch carbon from the air – it’s bad news for rainforests and Earth.” (18 Jan 2025). Read the article\n\n\n2025: Rainforest Rescue Newsletter Middleby, K. “Choosing the Right Seeds for a Changing World.” (06 Feb 2025). Read the article\n\n\n2023: ABC Far North Queensland — radio interview Interviewed to discuss the paper “Tropical forests are approaching critical temperature thresholds” (aired 24 Aug 2023)."
+  },
+  {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Grants",
+    "section": "",
+    "text": "Total funding to date: over €155,000\n\n2026 · University of Montpellier Postdoctoral Fellowship (Early Career Researcher) — “Predicting leaf lifespan in tropical forests: integrating age-dependent thermoregulation and optimality under climate warming”\n\nMiddleby, K. (PI) €48,600\n\n\n\n2026 · European Geophysical Union Travel Grant — EGU General Assembly, Vienna\n\nMiddleby, K. (PI) €925\n\n\n\n2025 · New Phytologist Foundation Travel Grant — New Phytologist Next Generation Scientists, Birmingham\n\nMiddleby, K. (PI) £300\n\n\n\n2025 · Smithsonian Tropical Research Institute Ernst Mayr Fellowship — “Assessing tropical tree resilience to high temperatures: the role of stomatal sensitivity to atmospheric dryness”\n\nMiddleby, K. (PI) $7,950 USD\n\n\n\n2021–2024 · Ecological Society of Australia Holsworth Wildlife Research Endowment — “Integrating climate adaptation into rainforest restoration”\n\nMiddleby, K. (PI) $20,260 AUD\n\n\n\n2021–2024 · Skyrail Rainforest Foundation Skyrail Rainforest Research Grant — “Thermal extremes of tropical trees”\n\nMiddleby, K. (PI) $15,000 AUD\n\n\n\n2022 · TESS Annual Meeting Best Photo and Video Award\n\nMiddleby, K. $600 AUD\n\n\n\n2020 · Australian Government / James Cook University Research Training Program Stipend — “Patterns and drivers of leaf thermoregulation in rainforest trees of the Australian Wet Tropics”\n\nMiddleby, K. (PI) $134,000 AUD\n\n\n\n2019 · DAAD, University of Göttingen Deutschlandstipendium (“Germany Scholarship”)\n\nMiddleby, K. €3,600\n\n\n\n2019 · AKB Stiftung, University of Göttingen Kreativität im Studium — “Investigating the use of stable oxygen isotope analysis in determining photosynthesis-weighted canopy leaf temperature”\n\nMiddleby, K. (PI) €5,000"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "10Published articles3As lead author"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nCheesman, A.W., Cox, P., Jones, S., Middleby, K.B., Cernusak, L.A. and Franks, P.J. (2026). Influence of vapour pressure deficit and CO2 on the thermal sensitivity of stomatal function in tropical trees. New Phytologist. ↗\nEngert, J.E., Middleby, K., Vogado, N. and Laurance, S.G.W. (2026). Seed collection practices in tropical rainforest restoration and implications for provenance research. Forest Ecology and Management. ↗"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nCheesman, A.W., Middleby, K.B., Orr, R., Han, L., Rossouw, G. and Cernusak, L.A. (2025). Acclimation of mango (Mangifera indica cv. Calypso) to canopy light gradients — scaling from leaf to canopy. Tree Physiology, 45(10), tpaf109. ↗\nMiddleby, K.B., Jordan, R., Cheesman, A.W., Rossetto, M., Breed, M.F., Crayn, D.M. and Cernusak, L.A. (2025). Local adaptation drives leaf thermoregulation in tropical rainforest trees. Global Change Biology, 31(9), e70461. ↗\nCrous, K.Y., Middleby, K.B., Cheesman, A.W., Bouet, A.Y.M., Schiffer, M., Liddell, M.J., Barton, C.V.M. and Cernusak, L.A. (2025). Leaf warming in the canopy of mature tropical trees reduced photosynthesis due to downregulation of photosynthetic capacity and reduced stomatal conductance. New Phytologist, 245, 1421–1436. ↗\nMiddleby, K.B., Cheesman, A.W., Hopkinson, R., Baker, L., Ramirez Garavito, S., Breed, M.F. and Cernusak, L.A. (2025). Ecotypic variation in leaf thermoregulation and heat tolerance but not thermal safety margins in tropical trees. Plant, Cell & Environment, 48, 649–663. ↗"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nMiddleby, K.B., Cheesman, A.W. and Cernusak, L.A. (2024). Impacts of elevated temperature and vapour pressure deficit on leaf gas exchange and plant growth across six tropical rainforest tree species. New Phytologist, 243, 648–661. ↗"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nDoughty, C.E., Keany, J.M., Wiebe, B.C., Rey-Sanchez, C., Carter, K.R., Middleby, K.B., Cheesman, A.W., et al. (2023). Tropical forests are approaching critical temperature thresholds. Nature, 621, 105–111. ↗\nCrous, K.Y., Cheesman, A.W., Middleby, K., Rogers, E.I.E., Wujeska-Klause, A., Bouet, A.Y.M., Ellsworth, D.S., Liddell, M.J., Cernusak, L.A. and Barton, C.V.M. (2023). Similar patterns of leaf temperatures and thermal acclimation to warming in temperate and tropical tree canopies. Tree Physiology, 43(8), 1383–1399. ↗"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nDorji, Y., Schuldt, B., Neudam, L., Dorji, R., Middleby, K., Isasa, E., Körber, K., Ammer, C., Annighöfer, P. and Seidel, D. (2021). Three-dimensional quantification of tree architecture from mobile laser scanning and geometry analysis. Trees, 35, 1385–1398. ↗"
+  },
+  {
+    "objectID": "publications.html#preprints-in-review",
+    "href": "publications.html#preprints-in-review",
+    "title": "Publications",
+    "section": "Preprints / in review",
+    "text": "Preprints / in review\n\n3 manuscripts currently under review (New Phytologist, Biotropica).\nMiddleby, K., Cernusak, L.A., Breed, M.F., Crayn, D.M., Laurance, S.G.W., Preece, N., van Oosterzee, P., Engert, J. and Cheesman, A.W. (2024). Strong site and provenance effects on tropical tree growth and survival, but mixed evidence for local adaptation. Authorea (preprint). ↗"
+  },
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "The panini press in action, heat stressing upper and lower canopy leaves in Mbalmayo\n\n\n\n\n\nJuly 2026\n\n\n\n\n\n\n\n\n\n\n\n\nStarting as PTL-3 Fellow at AMAP\n\n\n\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\n\n\n\nNew Phytologist Symposium on Extreme Heat, Córdoba\n\n\n\n\n\nJune 2026\n\n\n\n\n\n\n\n\n\n\n\n\nEGU Conference, Vienna\n\n\n\n\n\nMay 2026\n\n\n\n\n\n\n\n\n\n\n\n\nLeaf gas exchange on the Nyong, Cameroon\n\n\n\n\n\nFebruary 2026\n\n\n\n\n\n\n\n\n\n\n\n\nArticle and thermal image featured on the cover of GCB\n\n\n\n\n\nSeptember 2025\n\n\n\n\n\n\n\n\n\n\n\n\nVPDrought workshop, Lausanne\n\n\n\n\n\nAugust 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew Phytologist Next Generation Scientists Conference, Birmingham\n\n\n\n\n\nAugust 2025\n\n\n\n\n\n\n\n\n\n\n\n\nATBC Conference, Oaxaca\n\n\n\n\n\nJune 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew friends and measurements at STRI, Panama\n\n\n\n\n\nMarch 2025\n\n\n\n\n\n\n\n\n\n\n\n\n…and so the PhD comes to an end\n\n\n\n\n\nDecember 2024\n\n\n\n\n\n\n\n\n\n\n\n\nMy first lead author paper published &lt;3\n\n\n\n\n\nMay 2024\n\n\n\n\n\n\n\n\n\n\n\n\nASPS Conference, Hobart\n\n\n\n\n\nDecember 2023\n\n\n\n\n\n\n\n\n\n\n\n\nMeasuring thermal safety margins at the Daintree TropAdapt site\n\n\n\n\n\nOctober 2023\n\n\n\n\n\n\n\n\n\n\n\n\nArticle and thermal image featured on cover of Nature\n\n\n\n\n\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\nESA Conference, Portland\n\n\n\n\n\nAugust 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHumidifiers installed in the chambers!\n\n\n\n\n\nDecember 2022\n\n\n\n\n\n\n\n\n\n\n\n\n8 month trait campaign across Far North Queensland finished at last\n\n\n\n\n\nMay 2022\n\n\n\n\n\n\n\n\n\n\n\n\nPlanting out the provenance trials for TropAdapt\n\n\n\n\n\nMarch 2022\n\n\n\n\n\n\n\n\n\n\n\n\nWarming leaves at the Daintree Rainforest Observatory\n\n\n\n\n\nDecember 2021\n\n\n\n\n\n\n\n\n\n\n\n\nOxygen isotopes, leaf temperature, and flux towers at Hainich Forest in Germany\n\n\n\n\n\nJune 2020\n\n\n\n\n\n\n\n\n\n\n\n\nATBC Conference, Madagascar\n\n\n\n\n\nJuly 2019\n\n\n\n\n\n\n\n\n\n\n\n\nNational Geographic Expedition to Mt Windsor, Australia\n\n\n\n\n\nSeptember 2017\n\n\n\n\n\nNo matching items"
+  }
+]
